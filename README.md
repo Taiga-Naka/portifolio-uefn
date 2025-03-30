@@ -1,4 +1,4 @@
-# Lost City GDD
+# Lost City GDD (em produção)
 
 ### **Game Design Document (GDD) - Versão 0.0**
 
