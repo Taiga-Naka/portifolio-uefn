@@ -11,6 +11,8 @@
 **Plataforma:** Fortnite Creative (UEFN)
 
 **Nome:** Thomas Taiga Martinez Nakagawa
+**Curso:** Engenharia de Software
+**Nome:** Thomas Taiga Martinez Nakagawa
 
 ---
 
