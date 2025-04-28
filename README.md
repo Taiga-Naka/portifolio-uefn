@@ -101,8 +101,9 @@
  
 ### **Referências**
 
-- **Links**
+- **Links para referências**
     - [Zombieville USA 3D](https://www.reddit.com/r/indiegames/comments/1hybgzc/zombieville_usa_3d_my_project_of_3_years_has_a/?tl=pt-br&rdt=61545)
+- **Links para ferramentas**
     - [UEFN](https://dev.epicgames.com/community/fortnite/getting-started/uefn)
     - [Fortnite](https://www.fortnite.com/?lang=pt-BR)
     - [Dados Para análises do público](https://fortnite.gg/creative)
