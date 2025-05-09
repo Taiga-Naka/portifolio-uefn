@@ -71,7 +71,7 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
 
 ### **3.2 Mecânicas Principais**
 
-### **Spawn de Inimigos**
+**Spawn de Inimigos**
 
 - **NPC Spawner:**
     - O NPC Spawner é **teleportado** para jogadores onde os inimigos estarão spawnando.
@@ -81,13 +81,13 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
 - **Delay de Spawn:**
     - Os inimigos não spawnam todos de uma vez. Um **delay** é aplicado entre cada spawn para manter o desafio equilibrado.
 
-### **Coleta de Recursos**
+**Coleta de Recursos**
 
 - **Dinheiro Coletável:**
     - Inimigos derrotados dropam **dinheiro** que pode ser coletado pelo jogador.
     - O dinheiro **desaparece** se o jogador se afastar além de uma distância pré-definida.
 
-### **Áudio e Efeitos Sonoros**
+**Áudio e Efeitos Sonoros**
 
 - **Efeitos Sonoros:**
     - O jogo utilizará **variedades** de efeitos sonoros para criar uma atmosfera imersiva.
@@ -96,7 +96,7 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
         2. Efeitos sonoros dos inimigos (grunhidos, passos, spawn, morte, etc).
         3. Sons de combate (tiros, golpes, dano, mortes, etc).
 
-### **Animação**
+**Animação**
 
 - **Animação de Inimigo:**
     - Criar uma animação de movimento, ataque, dano e morte.
@@ -105,7 +105,7 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
 - **Animação Ambiental:**
     - Criar uma animação visual do ambiente do jogo para ser mais imersivo.
 
-### **Morte e Respawn**
+**Morte e Respawn**
 
 - **Morte do Jogador:**
     - Ao ser morto, um **fade de tela** é ativado, escurecendo gradualmente a tela.
