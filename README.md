@@ -69,7 +69,7 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
         - RNF03: O tempo de carregamento inicial não deve exceder 15 segundos.
         - RNF04: O jogo deve ser otimizado para rodar em servidores online do Fortnite, garantindo estabilidade durante as partidas.
 
-## **3.2 Mecânicas Principais**
+### **3.2 Mecânicas Principais**
 
 ### **Spawn de Inimigos**
 
