@@ -138,45 +138,45 @@ Para garantir o avanço contínuo e organizado do desenvolvimento do projeto *Lo
 
 ### **5.1 Planejamento Inicial**
 
-* [ ] Finalizar o escopo do projeto com todos os sistemas principais definidos.
-* [ ] Criar um cronograma detalhado com entregas semanais.
-* [ ] Validar os requisitos com colegas/professor para garantir viabilidade.
+* - Finalizar o escopo do projeto com todos os sistemas principais definidos.
+* - Criar um cronograma detalhado com entregas semanais.
+* - Validar os requisitos com colegas/professor para garantir viabilidade.
 
 ### **5.2 Desenvolvimento de Protótipo (Curto Prazo - Semana 1 a 3)**
 
-* [ ] Configurar o ambiente de desenvolvimento na UEFN.
-* [ ] Criar um mapa básico com a área segura e zona de spawn.
-* [ ] Implementar sistema de spawn de inimigos simples.
-* [ ] Adicionar NPCs com comportamento básico (seguir jogador, atacar).
-* [ ] Testar e validar mecânicas iniciais (spawn, combate, coleta de dinheiro).
+* - Configurar o ambiente de desenvolvimento na UEFN.
+* - Criar um mapa básico com a área segura e zona de spawn.
+* - Implementar sistema de spawn de inimigos simples.
+* - Adicionar NPCs com comportamento básico (seguir jogador, atacar).
+* - Testar e validar mecânicas iniciais (spawn, combate, coleta de dinheiro).
 
 ### **5.3 Implementação de Mecânicas Avançadas (Médio Prazo - Semana 4 a 6)**
 
-* [ ] Desenvolver sistema de respawn com estado "fantasma".
-* [ ] Implementar sistema de progressão (coleta de EXP e dinheiro persistente).
-* [ ] Adicionar efeitos sonoros e visuais aos principais eventos do jogo.
-* [ ] Ajustar dificuldade com base no tempo ou onda de inimigos.
-* [ ] Criar animações para inimigos (movimento, ataque, dano, morte).
+* - Desenvolver sistema de respawn com estado "fantasma".
+* - Implementar sistema de progressão (coleta de EXP e dinheiro persistente).
+* - Adicionar efeitos sonoros e visuais aos principais eventos do jogo.
+* - Ajustar dificuldade com base no tempo ou onda de inimigos.
+* - Criar animações para inimigos (movimento, ataque, dano, morte).
 
 ### **5.4 Otimização e Polimento (Longo Prazo - Semana 7 a 8)**
 
-* [ ] Balancear o jogo com testes internos.
-* [ ] Otimizar desempenho para manter taxa de quadros mínima.
-* [ ] Refinar efeitos sonoros e visuais para maior imersão.
-* [ ] Corrigir bugs e inconsistências relatadas nos testes.
+* - Balancear o jogo com testes internos.
+* - Otimizar desempenho para manter taxa de quadros mínima.
+* - Refinar efeitos sonoros e visuais para maior imersão.
+* - Corrigir bugs e inconsistências relatadas nos testes.
 
 ### **5.5 Testes e Feedback**
 
-* [ ] Realizar testes com usuários (colegas de sala, jogadores do Fortnite).
-* [ ] Coletar feedback estruturado sobre dificuldade, performance e diversão.
-* [ ] Ajustar mecânicas com base no feedback coletado.
+* - Realizar testes com usuários (colegas de sala, jogadores do Fortnite).
+* - Coletar feedback estruturado sobre dificuldade, performance e diversão.
+* - Ajustar mecânicas com base no feedback coletado.
 
 ### **5.6 Preparação para Entrega**
 
-* [ ] Gravar gameplay demonstrativo do jogo finalizado.
-* [ ] Criar documentação de apoio (instruções, imagens do jogo, etc).
-* [ ] Revisar o GDD completo e atualizar com base nas mudanças feitas.
-* [ ] Entregar projeto e apresentação final conforme cronograma do curso.
+* - Gravar gameplay demonstrativo do jogo finalizado.
+* - Criar documentação de apoio (instruções, imagens do jogo, etc).
+* - Revisar o GDD completo e atualizar com base nas mudanças feitas.
+* - Entregar projeto e apresentação final conforme cronograma do curso.
 
 ---
  
