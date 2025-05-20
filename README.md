@@ -142,7 +142,7 @@ Para garantir o avanço contínuo e organizado do desenvolvimento do projeto *Lo
 * - Criar um cronograma detalhado com entregas semanais.
 * - Validar os requisitos com colegas/professor para garantir viabilidade.
 
-### **5.2 Desenvolvimento de Protótipo (Curto Prazo - Semana 1 a 3)**
+### **5.2 Desenvolvimento de Protótipo (Curto Prazo)**
 
 * - Configurar o ambiente de desenvolvimento na UEFN.
 * - Criar um mapa básico com a área segura e zona de spawn.
@@ -150,7 +150,7 @@ Para garantir o avanço contínuo e organizado do desenvolvimento do projeto *Lo
 * - Adicionar NPCs com comportamento básico (seguir jogador, atacar).
 * - Testar e validar mecânicas iniciais (spawn, combate, coleta de dinheiro).
 
-### **5.3 Implementação de Mecânicas Avançadas (Médio Prazo - Semana 4 a 6)**
+### **5.3 Implementação de Mecânicas Avançadas (Médio Prazo)**
 
 * - Desenvolver sistema de respawn com estado "fantasma".
 * - Implementar sistema de progressão (coleta de EXP e dinheiro persistente).
@@ -158,7 +158,7 @@ Para garantir o avanço contínuo e organizado do desenvolvimento do projeto *Lo
 * - Ajustar dificuldade com base no tempo ou onda de inimigos.
 * - Criar animações para inimigos (movimento, ataque, dano, morte).
 
-### **5.4 Otimização e Polimento (Longo Prazo - Semana 7 a 8)**
+### **5.4 Otimização e Polimento (Longo Prazo)**
 
 * - Balancear o jogo com testes internos.
 * - Otimizar desempenho para manter taxa de quadros mínima.
