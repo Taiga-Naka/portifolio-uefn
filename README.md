@@ -20,7 +20,13 @@
 
 ## **Resumo**
 
- Resumo
+ Lost City é um jogo de ação, sobrevivência e roguelike, desenvolvido na plataforma Fortnite Creative com o Unreal Editor for Fortnite (UEFN). Inspirado em Zombie Ville 3D, o jogador enfrenta hordas de inimigos em um mundo pós-apocalíptico, enquanto coleta recursos, aprimora habilidades e sobrevive o máximo possível. O jogo foca na criação de uma experiência dinâmica e imersiva, utilizando sistemas personalizados de IA, efeitos visuais/sonoros e mecânicas de progressão.
+
+O desenvolvimento serve como um estudo prático de engenharia de software, destacando-se pela implementação de sistemas complexos, como spawners dinâmicos, lógica de coleta, sistema de morte e respawn, e uso da nova linguagem Verse. Limitações técnicas incluem o uso apenas de armas e veículos disponíveis no Fortnite.
+
+Entre os requisitos funcionais estão: spawn dinâmico de inimigos, coleta de dinheiro, efeitos sonoros imersivos, e sistema de progressão persistente. Já entre os não-funcionais destacam-se a performance (mínimo 30 FPS), tempo de carregamento, e sincronização de áudio.
+
+O loop principal do jogo envolve: início em uma área segura, teleporte para áreas de combate, coleta de recursos, respawn em caso de morte, e reinício com progressão mantida. O projeto é estruturado com um cronograma dividido em etapas: planejamento inicial, prototipagem, implementação de mecânicas avançadas, polimento, testes e entrega final.
  
 ---
 
