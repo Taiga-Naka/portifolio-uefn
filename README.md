@@ -198,11 +198,11 @@ Para garantir o avanço contínuo e organizado do desenvolvimento do projeto *Lo
 
 ---
 
-### **Avaliações de Professores**
+### **Aprovações dos Professores**
 
 - **Professor 1**
-   - Avaliações
+   - Aprovação
 - **Professor 2**
-   - Avaliações
+   - Aprovação
 - **Professor 3**
-   - Avaliações
+   - Aprovação
