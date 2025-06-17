@@ -132,10 +132,6 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
 4. **Loop de Jogo:**
     - O jogo continua em um ciclo de exploração, combate e coleta, com dificuldade progressiva.
 
----  
-
-Claro! Aqui está uma sugestão completa para a seção **5. Próximos Passos** do seu GDD:
-
 ---
 
 ## **5. Próximos Passos**
