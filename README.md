@@ -123,12 +123,21 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
 
 1. **Início:**
     - O jogador começa em uma área segura, com uma breve introdução ao objetivo do jogo com lojas de armas, upgrades e entre outros.
+
+  ![alt text](https://www.yekbot.com/wp-content/uploads/2025/03/1801520_screenshots_20250315211952_1.webp) 
+      
 2. **Exploração e Combate:**
     - O jogador é teleportado para áreas com Spawners de inimigos.
     - Deve derrotar inimigos, coletar dinheiro e sobreviver o maior tempo possível.
+  
+  ![image](https://github.com/user-attachments/assets/2d1c8cc2-1695-4483-bc34-5f3734711650)
+
 3. **Morte e Recuperação:**
     - Ao morrer, o jogador respawna com um período de invulnerabilidade até toda equipe morrer.
     - O progresso (dinheiro coletado e EXP) é mantido com save.
+
+  ![image](https://github.com/user-attachments/assets/6c7b72d0-4eca-4f16-93d4-f5746e366afb)
+      
 4. **Loop de Jogo:**
     - O jogo continua em um ciclo de exploração, combate e coleta, com dificuldade progressiva.
 
@@ -151,8 +160,6 @@ Para garantir o avanço contínuo e organizado do desenvolvimento do projeto *Lo
 *  Implementar sistema de spawn de inimigos simples.
 *  Adicionar NPCs com comportamento básico (seguir jogador, atacar).
 *  Testar e validar mecânicas iniciais (spawn, combate, coleta de dinheiro).
-
-![alt text](https://www.yekbot.com/wp-content/uploads/2025/03/1801520_screenshots_20250315211952_1.webp)
 
 ### **5.3 Implementação de Mecânicas Avançadas (Médio Prazo)**
 
