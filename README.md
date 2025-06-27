@@ -125,7 +125,7 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
     - O jogador começa em uma área segura, com uma breve introdução ao objetivo do jogo com lojas de armas, upgrades e entre outros.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9e80d5e6-bc4d-48c4-a522-aaf30d336c81" width="1000" heigh="800"/>
+  <img src="https://github.com/user-attachments/assets/9e80d5e6-bc4d-48c4-a522-aaf30d336c81" width="600" heigh="400"/>
 </p>
       
 2. **Exploração e Combate:**
@@ -133,7 +133,7 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
     - Deve derrotar inimigos, coletar dinheiro e sobreviver o maior tempo possível.
   
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d1c8cc2-1695-4483-bc34-5f3734711650" width="1000" heigh="800"/> 
+  <img src="https://github.com/user-attachments/assets/2d1c8cc2-1695-4483-bc34-5f3734711650" width="600" heigh="400"/> 
  </p>
 
 3. **Morte e Recuperação:**
@@ -141,7 +141,7 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
     - O progresso (dinheiro coletado e EXP) é mantido com save.
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/6c7b72d0-4eca-4f16-93d4-f5746e366afb" width="1000" heigh="800"/> 
+  <img src="https://github.com/user-attachments/assets/6c7b72d0-4eca-4f16-93d4-f5746e366afb" width="600" heigh="400"/> 
  </p>
       
 4. **Loop de Jogo:**
