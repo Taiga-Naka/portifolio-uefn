@@ -152,6 +152,8 @@ Para garantir o avanço contínuo e organizado do desenvolvimento do projeto *Lo
 *  Adicionar NPCs com comportamento básico (seguir jogador, atacar).
 *  Testar e validar mecânicas iniciais (spawn, combate, coleta de dinheiro).
 
+![alt text](https://www.yekbot.com/wp-content/uploads/2025/03/1801520_screenshots_20250315211952_1.webp)
+
 ### **5.3 Implementação de Mecânicas Avançadas (Médio Prazo)**
 
 *  Desenvolver sistema de respawn com estado "fantasma".
