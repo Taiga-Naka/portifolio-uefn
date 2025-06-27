@@ -125,7 +125,7 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
     - O jogador começa em uma área segura, com uma breve introdução ao objetivo do jogo com lojas de armas, upgrades e entre outros.
 
 <p align="center">
-  <img src="http://some_place.com/image.png](https://www.yekbot.com/wp-content/uploads/2025/03/1801520_screenshots_20250315211952_1.webp" />
+  <img src="https://github.com/user-attachments/assets/9e80d5e6-bc4d-48c4-a522-aaf30d336c81"/>
 </p>
       
 2. **Exploração e Combate:**
