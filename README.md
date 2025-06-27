@@ -130,13 +130,13 @@ O desenvolvimento do jogo Lost City será realizado na plataforma Fortnite Creat
     - O jogador é teleportado para áreas com Spawners de inimigos.
     - Deve derrotar inimigos, coletar dinheiro e sobreviver o maior tempo possível.
   
-  ![image](https://github.com/user-attachments/assets/2d1c8cc2-1695-4483-bc34-5f3734711650)
+  ![alt text](https://github.com/user-attachments/assets/2d1c8cc2-1695-4483-bc34-5f3734711650)
 
 3. **Morte e Recuperação:**
     - Ao morrer, o jogador respawna com um período de invulnerabilidade até toda equipe morrer.
     - O progresso (dinheiro coletado e EXP) é mantido com save.
 
-  ![image](https://github.com/user-attachments/assets/6c7b72d0-4eca-4f16-93d4-f5746e366afb)
+  ![alt text](https://github.com/user-attachments/assets/6c7b72d0-4eca-4f16-93d4-f5746e366afb)
       
 4. **Loop de Jogo:**
     - O jogo continua em um ciclo de exploração, combate e coleta, com dificuldade progressiva.
