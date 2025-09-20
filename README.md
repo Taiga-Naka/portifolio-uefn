@@ -1,6 +1,6 @@
 # Lost City GDD (em produção)
 
-### **Game Design Document (GDD) - Versão 0.0**
+### **Game Design Document (GDD) - Versão 0.1**
 
 **Título do Jogo:** Lost City
 
@@ -20,7 +20,7 @@
 
 ## **Resumo**
 
- Lost City é um jogo de ação, sobrevivência e roguelike, desenvolvido na plataforma Fortnite Creative com o Unreal Editor for Fortnite (UEFN). Inspirado em Zombie Ville 3D, o jogador enfrenta hordas de inimigos em um mundo pós-apocalíptico, enquanto coleta recursos, aprimora habilidades e sobrevive o máximo possível. O jogo foca na criação de uma experiência dinâmica e imersiva, utilizando sistemas personalizados de IA, efeitos visuais/sonoros e mecânicas de progressão.
+ Lost City é um jogo de ação, sobrevivência e roguelike, desenvolvido na plataforma Fortnite Creative com o Unreal Editor for Fortnite (UEFN). Inspirado a gameplay em Zombie Ville 3D, O ambiente de Mad Max, A animação de The Last of Us, e Terror e sobrevivência de Resident Evil. O jogador enfrenta hordas de inimigos em um mundo pós-apocalíptico, enquanto coleta recursos, aprimora habilidades e sobrevive o máximo possível. O jogo foca na criação de uma experiência dinâmica e imersiva, utilizando sistemas personalizados de IA, efeitos visuais/sonoros e mecânicas de progressão.
 
 O desenvolvimento serve como um estudo prático de engenharia de software, destacando-se pela implementação de sistemas complexos, como spawners dinâmicos, lógica de coleta, sistema de morte e respawn, e uso da nova linguagem Verse. Limitações técnicas incluem o uso apenas de armas e veículos disponíveis no Fortnite.
 
@@ -42,7 +42,7 @@ O objetivo principal do projeto é criar uma experiência de jogo imersiva e des
 
 ## **2. Descrição do Projeto**
 
-O tema do projeto é o desenvolvimento de um jogo de sobrevivência e ação chamado Lost City, criado na plataforma Fortnite Creative utilizando o Unreal Editor for Fortnite (UEFN). O jogo é inspirado no clássico "Zombie Ville 3D", mas expande a experiência ao oferecer um ambiente pós-apocalíptico onde o jogador enfrenta hordas de inimigos, coleta recursos e aprimora habilidades em um ciclo contínuo de combate e exploração. O produto final é um jogo dinâmico e desafiador que combina elementos de roguelike e ação, proporcionando uma experiência imersiva com efeitos sonoros e visuais de alta qualidade.
+O tema do projeto é o desenvolvimento de um jogo de sobrevivência e ação chamado Lost City, criado na plataforma Fortnite Creative utilizando o Unreal Editor for Fortnite (UEFN). O jogo é inspirado no clássico "Zombie Ville 3D", mas expande a experiência ao oferecer um ambiente pós-apocalíptico inspirado ao Mad Max onde o jogador enfrenta hordas de inimigos, coleta recursos e aprimora habilidades em um ciclo contínuo de combate e exploração. O produto final é um jogo dinâmico e desafiador que combina elementos de roguelike e ação, proporcionando uma experiência imersiva com efeitos sonoros e visuais de alta qualidade.
 
 - **Os principais problemas que o projeto visa resolver são:**
    - Dificuldade de procurar ou criar modelagens 3D dos Assets do jogo.
@@ -52,6 +52,10 @@ O tema do projeto é o desenvolvimento de um jogo de sobrevivência e ação cha
 - **No entanto, o projeto também possui algumas limitações definidas para manter o escopo viável:**
    - Limitações de criar uma arma personalizada, usar somente armas existentes no Fortnite.
    - Limitações de criar um veículo personalizado.
+ 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e80d5e6-bc4d-48c4-a522-aaf30d336c81" width="600" heigh="400"/>
+</p
 
 ---
 
