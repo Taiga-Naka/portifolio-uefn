@@ -54,7 +54,7 @@ O tema do projeto é o desenvolvimento de um jogo de sobrevivência e ação cha
    - Limitações de criar um veículo personalizado.
  
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/9e80d5e6-bc4d-48c4-a522-aaf30d336c81](https://github.com/Taiga-Naka/portifolio-uefn/blob/main/Ambient%201.jpg)" width="600" heigh="400"/>
+  <img src="https://github.com/Taiga-Naka/portifolio-uefn/blob/main/Ambient%201.jpg" width="600" heigh="400"/>
 </p
 
 ---
