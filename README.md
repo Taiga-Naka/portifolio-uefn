@@ -56,9 +56,6 @@ O tema do projeto é o desenvolvimento de um jogo de sobrevivência e ação cha
 <p align="center">
   <img src="https://github.com/Taiga-Naka/portifolio-uefn/blob/main/Ambient%201.jpg" width="600" heigh="400"/>
 </p
-<p align="center">
-  <img src="https://github.com/Taiga-Naka/portifolio-uefn/blob/main/Ambient%202.jpg" width="600" heigh="400"/>
-</p
  
 ---
 
